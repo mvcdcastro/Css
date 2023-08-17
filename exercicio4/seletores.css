@@ -1,0 +1,32 @@
+@charset "UTF-8"
+
+body {
+    background-color: rgb(0, 112, 211);  
+}
+#titulo1 {
+        background-color: rgb(213, 213, 248);
+        border-radius: 5px;
+        box-shadow: 10px;
+        padding: auto;
+        margin-right: 15%;
+        margin-left: 12%;
+        margin-top: 2%;
+        margin-bottom: auto;
+        font:normal  bold 3em Times, serif;
+        text-align: center;
+   
+}
+        div >p  {
+            display: none;
+        }
+        div:hover> p {
+            display: block;
+            background-color: rgb(30, 128, 128);
+            text-align: center;
+            width: 200px;
+            
+        }
+        div:hover {
+            background-color: rgb(255, 255, 255);
+            
+        }
